@@ -5,7 +5,7 @@ export default function TOCWrapper(props) {
   return (
     <>
       <TOC {...props} />
-      toc add part
+      add contents 3
     </>
   );
 }

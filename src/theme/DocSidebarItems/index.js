@@ -5,7 +5,7 @@ export default function DocSidebarItemsWrapper(props) {
   return (
     <>
       <DocSidebarItems {...props} />
-      add block to side bar
+      add contents 2
     </>
   );
 }
